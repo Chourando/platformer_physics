@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Walls
+  - Moving Pickable
+  - Moving Nonpickable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 351335203
+    locked: 0
+  - name: Background objects
+    uniqueID: 3822070753
+    locked: 0
+  - name: Level Walls
+    uniqueID: 2520740793
+    locked: 0
+  - name: Moving Objects
+    uniqueID: 641284755
+    locked: 0
+  - name: Foreground objects
+    uniqueID: 3903292271
+    locked: 0
